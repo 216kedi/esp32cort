@@ -1,0 +1,6 @@
+interface:
+  display_name: "Esp32cort"
+  short_description: "Repo-specific patterns and workflows for esp32cort"
+  default_prompt: "Use the esp32cort repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
