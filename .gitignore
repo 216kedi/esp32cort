@@ -1,0 +1,13 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Gercek kimlik bilgileri - ASLA commit edilmez
+include/secrets.h
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
